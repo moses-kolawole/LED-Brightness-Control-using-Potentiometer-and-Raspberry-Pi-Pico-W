@@ -26,7 +26,7 @@ The Pico W reads analog voltage values from the potentiometer and adjusts LED br
 - Brightness modulation
 
   ## Project images
-  [Click here for the projkect image](images/1project_4.jpg)
+  ![Click here for the projkect image](images/1project_4.jpg)
 
   ## Project Code
   [Click here for the project code](code/controlling_led_brigthness_using_the_potentiometer.py)
